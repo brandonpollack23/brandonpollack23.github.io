@@ -343,6 +343,13 @@ footer {
   text-align: center;
 }
 
+noscript {
+  padding: 5px;
+  font-style: italic;
+  font-size: small;
+  color: gray;
+}
+
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
