@@ -164,6 +164,7 @@ img {
 }
 
 .date {
+  font-style: italic;
   color: #666;
 }
 
@@ -330,6 +331,25 @@ nav a {
   font-size: small;
   color: gray;
   text-align: center;
+}
+
+.headline {
+  font-style: italic;
+  font-weight: bold;
+  color: #535353;
+}
+
+.link {
+  text-decoration: underline;
+  color: #000531;
+}
+
+.inline {
+  display: inline;
+}
+
+.inline > p, span {
+  display: inline;
 }
 
 #language_selector {
